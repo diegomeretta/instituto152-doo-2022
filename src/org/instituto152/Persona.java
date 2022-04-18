@@ -1,6 +1,6 @@
 package org.instituto152;
 
-public class Persona {
+public abstract class Persona {
 
 	String nombre;
 	String telefono;

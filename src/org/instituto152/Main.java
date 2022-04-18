@@ -15,6 +15,8 @@ public class Main {
 		
 		System.out.println(instituto152.toString());
 		System.out.println(diego.toString());
+		
+		System.out.println("Suma:" + Ayuda.sumar(7, 8));
 	}
 
 }
